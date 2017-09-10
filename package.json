@@ -1,0 +1,17 @@
+{
+  "name": "openapi-samples",
+  "version": "1.0.0",
+  "description": "Samples for testing OpenAPI tools",
+  "private": true,
+  "scripts": {
+    "markdown": "node ./build/markdown.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darosh/openapi-samples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/darosh/openapi-samples/issues"
+  },
+  "homepage": "https://github.com/darosh/openapi-samples#readme"
+}
