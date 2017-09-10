@@ -1,17 +1,18 @@
-  {
+{
   "name": "openapi-samples",
-  "version": "1.0.0",
   "description": "Samples for testing OpenAPI tools",
-  "private": true,
-  "scripts": {
-    "markdown": "node ./build/markdown.js"
+  "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/darosh/openapi-samples/issues"
   },
+  "homepage": "https://github.com/darosh/openapi-samples#readme",
+  "main": "index.json",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/darosh/openapi-samples.git"
   },
-  "bugs": {
-    "url": "https://github.com/darosh/openapi-samples/issues"
-  },
-  "homepage": "https://github.com/darosh/openapi-samples#readme"
+  "scripts": {
+    "markdown": "node ./build/markdown.js"
+  }
 }

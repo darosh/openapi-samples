@@ -1,0 +1,59 @@
+[
+  {
+    "url": "https://cdn.rawgit.com/swagger-api/swagger-ui/f0fdc661/test/e2e/specs/petstore.json",
+    "title": "Petstore 2.0",
+  },
+  {
+    "url": "http://cdn.rawgit.com/swagger-api/swagger-ui/f0fdc661/test/e2e/specs/petstore.json",
+    "title": "Petstore 2.0",
+    "note": "HTTP spec URL"
+  },
+  {
+    "url": "https://cdn.rawgit.com/OAI/OpenAPI-Specification/OpenAPI.next/examples/v3.0/petstore.yaml",
+    "title": "Petstore 3.0"
+  },
+  {
+    "url": "https://darosh.github.io/openapi-samples/specs/swagger-1.2/swagger-1.2.json",
+    "title": "Swagger 1.2"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/OAI/OpenAPI-Specification/master/examples/v2.0/yaml/petstore-separate/spec/swagger.yaml",
+    "title": "Petstore 2.0 Separate",
+    "note": "YAML spec in 5 files"
+  },
+  {
+    "url": "https://darosh.github.io/openapi-samples/specs/markdown/markdown.json",
+    "title": "Sample Markdown",
+    "note": "Markdown in spec description"
+  },
+  {
+    "url": "https://darosh.github.io/openapi-directory-lite/specs/docusign.net/v2.json",
+    "title": "DocuSign",
+    "note": "Markdown in tag description"
+  },
+  {
+    "url": "https://darosh.github.io/openapi-directory-lite/specs/apacta.com/0.0.1.json",
+    "title": "Apacta",
+    "note": "Large Markdown"
+  },
+  {
+    "url": "https://darosh.github.io/openapi-samples/specs/loopback-drupal/loopback-drupal.json",
+    "title": "LoopBack auto-generated",
+    "note": "Many operations"
+  },
+  {
+    "url": "https://darosh.github.io/openapi-directory-lite/specs/bbc.com/1.0.0.json",
+    "title": "BBC Nitro",
+    "note": "Large models/schemes"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/kevinoid/appveyor-swagger/master/swagger-polymorphic.yaml",
+    "title": "AppVeyor",
+    "note": "Polymorphic example"
+  },
+  {
+    "url": "https://darosh.github.io/openapi-directory-lite/specs/apis.guru/2.0.json",
+    "title": "APIs Guru",
+    "note": "Try out GET"
+  }
+]
