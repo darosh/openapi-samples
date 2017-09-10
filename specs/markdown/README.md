@@ -4,7 +4,7 @@ This is [OAX](https://github.com/darosh/oax) OpenApi Specification Markdown and 
 
 - compare it with [GitHub render](https://github.com/darosh/openapi-samples/blob/master/specs/markdown/README.md)
 - view raw [Markdown source](https://darosh.github.io/openapi-samples/specs/markdown/README.md), 
-- and try to [toggle dark/light theme](javascript:OAX.app.$store.commit('TOGGLE_DARK')).
+- and try to toggle [dark &amp; light](javascript:OAX.app.$store.commit('VIEW_SET_DARK')) theme.
 
 ## Headers
 
