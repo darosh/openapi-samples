@@ -1,7 +1,7 @@
 [
   {
     "url": "https://cdn.rawgit.com/swagger-api/swagger-ui/f0fdc661/test/e2e/specs/petstore.json",
-    "title": "Petstore 2.0",
+    "title": "Petstore 2.0"
   },
   {
     "url": "http://cdn.rawgit.com/swagger-api/swagger-ui/f0fdc661/test/e2e/specs/petstore.json",
