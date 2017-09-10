@@ -1,7 +1,7 @@
 # openapi-samples
 Samples to testing OpenAPI tools
 
-GitHub pages: https://darosh.github.io/openapi-samples/
+GitHub pages: [https://darosh.github.io/openapi-samples/](https://darosh.github.io/openapi-samples/)
 
 - [markdown](./specs/markdown/markdown.json)
 - [loopback-drupal](./specs/loopback-drupal/loopback-drupal.json)
