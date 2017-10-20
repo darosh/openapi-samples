@@ -1,7 +1,7 @@
 {
   "name": "openapi-samples",
   "description": "Samples for testing OpenAPI tools",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "bugs": {
     "url": "https://github.com/darosh/openapi-samples/issues"
   },

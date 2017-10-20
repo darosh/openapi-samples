@@ -261,7 +261,7 @@ Index: languages/ini.js
 <!DOCTYPE html>
 <title>Title</title>
 
-<style>body {width: 500px;}</style>
+<style>#body {width: 500px;}</style>
 
 <script type="application/javascript">
   function $init() {return true;}
